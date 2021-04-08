@@ -1,0 +1,1 @@
+<a class="pic mt20" href="[field:arcurl/]" target="_blank"><img src="/uploads/151214/36229-151214161240949.jpg" ><p class="mt10">[field:title/]</p></a>

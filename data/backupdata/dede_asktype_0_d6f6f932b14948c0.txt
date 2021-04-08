@@ -1,0 +1,7 @@
+INSERT INTO `dede_asktype` VALUES('1','白癜风','0','0','6','0');
+INSERT INTO `dede_asktype` VALUES('2','白癜风常识','1','0','4','0');
+INSERT INTO `dede_asktype` VALUES('3','白癜风治疗','1','0','2','0');
+INSERT INTO `dede_asktype` VALUES('4','白癜风诊断','1','0','0','0');
+INSERT INTO `dede_asktype` VALUES('5','白癜风养生','1','0','0','0');
+INSERT INTO `dede_asktype` VALUES('6','白癜风症状','1','0','0','0');
+INSERT INTO `dede_asktype` VALUES('7','白癜风心理','1','0','0','0');

@@ -1,0 +1,7 @@
+INSERT INTO `dede_search_keywords` VALUES('1','秦婕','秦婕','6','0','1451227886','0','0');
+INSERT INTO `dede_search_keywords` VALUES('2','3213','3213','10','0','1451225315','0','0');
+INSERT INTO `dede_search_keywords` VALUES('3','老师','老师','29','3','1451232346','0','0');
+INSERT INTO `dede_search_keywords` VALUES('4','321','321','1','0','1451227980','0','0');
+INSERT INTO `dede_search_keywords` VALUES('5','请输入搜索关键词','请输入搜索关键词 关键词 输入 搜索','1','0','1451228716','0','0');
+INSERT INTO `dede_search_keywords` VALUES('6','32','32','1','1','1451229840','0','0');
+INSERT INTO `dede_search_keywords` VALUES('7','时老师','时老师','8','1','1451232253','0','0');

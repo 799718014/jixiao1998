@@ -1,0 +1,40 @@
+	<div class="about_l a27_box" id="sider_about">
+        <a class="first" href="/gyyy/gyyyx/1.html">关于优益</a>
+    
+		<a class="first" href="/gyyy/gycpyc/15.html">诚聘英才</a>
+    
+		<a class="first" href="/gyyy/gymfpg/">免费评估</a>
+    
+		<a class="first" href="/gyyy/gymtbd/">媒体报道</a>
+    
+		<a class="first" href="/gyyy/gygsxw/">公司新闻</a>
+    
+		<a class="first" href="/gyyy/gyqywh/">企业文化</a>
+    
+		<a class="first" href="/gyyy/gyqyry/19.html">企业荣誉</a>
+    
+		<a class="first" href="/gyyy/gyppys/18.html">品牌优势</a>
+    
+		<a class="first" href="/gyyy/gyfzlc/17.html">发展历程</a>
+    
+		<a class="first" href="/gyyy/gyjycg/16.html">教育成果</a>
+    
+		<a class="first" href="/mstd/">名师团队</a>
+    
+		<a class="first" href="/gyyy/gyyyx/1.html">优益服务</a>
+    
+		<a class="first" href="/gyyy/gylxwm/25.html">联系我们</a>
+
+	</div>
+<script>
+//控制about侧栏与主侧栏交替显示
+ $(function(){
+ var myheight = $("#sider_about").height();
+	 $("#side_bar").mouseover(function(){
+		$("#sider_about").stop(true).animate({"height":"0px"});
+	 });
+	 $("#side_bar").mouseleave(function(){
+		$("#sider_about").stop(true).animate({"height":myheight+"px"});
+	 });
+ })
+</script>

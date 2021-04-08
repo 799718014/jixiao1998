@@ -1,0 +1,25 @@
+
+
+/*列表左侧*/
+.lt_left{width:836px;margin-right:14px;padding-bottom:30px;}
+/*列表标题*/
+.lt_left .lt_title{width:100%;height:44px;font-size:20px;color:#3e3a39;border-bottom:1px #fdca00 solid;line-height:44px;}
+.lt_left .lt_title h1{margin:0;font-weight:normal;float:left;}
+/*列表*/
+.lt_list{width:100%; padding-bottom:15px;}
+.lt_list ul li{line-height:30px;clear:both;font-family:"Microsoft YaHei";height:30px;}
+.lt_list ul li .lt_ico1{background-image:url(../images/list/dian_15.png@__sprite);display:inline-block;width:4px;height:4px;vertical-align:middle;overflow:hidden;margin-right:6px;}
+.lt_list ul li span{float:right;font-size:14px;color:#898989;height:30px;}
+.lt_list ul li a{font-size:14px;color:#3e3a39;}
+.lt_list ul li .lt_lei{color:#727171;margin-right:15px;}
+.lt_list .lt_six{padding-bottom:15px;margin-bottom:5px;border-bottom:2px #d3d0d0 dotted;}
+
+.lt_list .lt_link{width:836px;height:24px;line-height:24px;text-align:right;color:#727171; margin-bottom:10px;}
+.lt_list .lt_link span{font-family:"SimSun"; padding:0 5px;}
+.lt_list .lt_link a{color:#727171}
+
+/* 1280屏以1200显示 */
+@media all and (max-width: 1280px) { 
+	.lt_left{width:666px;margin-right:34px;}
+	.lt_list .lt_link{width:666px;}
+}

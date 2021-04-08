@@ -1,0 +1,1 @@
+<a class="top_test_list_tit" href="[field:arcurl/]" target="_blank" ><img src="/uploads/151217/36229-15121G4222JE.jpg"><span>[field:title/]</span><div class="clear"></div></a>

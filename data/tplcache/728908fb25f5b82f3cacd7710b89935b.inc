@@ -1,0 +1,1 @@
+<li><a class="list_l_content_type" href="[field:arcurl/]" target="_blank">[[field:typename /]]</a><a href="[field:arcurl/]" target="_blank"><b>[field:title/]</b></a><span>[field:stime/]</span><div class="clear"></div></li>

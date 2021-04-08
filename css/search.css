@@ -1,0 +1,17 @@
+*{padding:0px;margin:0px;}
+body{font:12px Verdana,Arial,Tahoma;}
+img{border:none;}
+a{color:#256EB1;text-decoration:none;}
+a:hover{color:#ba2636;text-decoration:underline;}
+ul{list-style:none;}
+
+
+.sscon{overflow:hidden;width: 860px;margin: 0 auto; min-height:500px;}
+.resultlist{overflow:hidden; }
+.resultlist ul li{padding-top:15px; border-bottom:1px solid #ccc;}
+.resultlist ul li h3{line-height:30px;font-size:16px;font-weight:normal;}
+.resultlist ul li h3 a{text-decoration:underline;}
+.resultlist ul li p{line-height:22px;color:#68605a;font-size:14px; }
+.resultlist ul li span small{line-height:22px;font-size:12px; margin-left:5px;color:#999;}
+.resultlist ul li span a{color:#008400;}
+

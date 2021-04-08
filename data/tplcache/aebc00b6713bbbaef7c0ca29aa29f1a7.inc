@@ -1,0 +1,1 @@
+<li><span>{dede:type  }<a href="[field:typelink /]" target="_blank">[[field:typename /]]</a> {/dede:type}</span><a href="[field:arcurl/]" target="_blank" title="[field:title/]"><strong>[field:title/]</strong></a></li>

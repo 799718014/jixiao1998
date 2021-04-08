@@ -1,0 +1,88 @@
+/*列表副导航*/
+.gg_fnav{height:43px;line-height:43px;background:#e3e6e3;}
+.gg_fnav dl{float:left;width:400px;}
+.gg_fnav .gg_z{float:left;width:374px;}
+.gg_fnav dt{float:left;width:54px;text-align:center;}
+.gg_fnav a{font-size:14px;color:#595757;}
+.gg_fnav dd a{margin-right:12px;float:left;}
+.gg_fnav dd span{display:block;width:44px;text-align:center; font-size:14px;color:#595757;float:left;}
+/*面包屑导航*/
+.gg_pos{width:100%;height:18px;line-height:18px;margin-bottom:40px;}
+.gg_pos a{font-size:14px;color:#595757;}
+.gg_pos span{display:inline-block;width:20px;text-align:center;color:#595757;}
+/*分页*/
+.gg_page{width:100%;height:27px;clear:both;border-bottom:1px #9fa0a0 solid;padding-top:22px;padding-bottom:25px;font-family:"Microsoft YaHei";}
+.gg_page .gg_buTton{margin:0 auto;width:435px;height:27px;}
+.gg_page a{display:block;width:25px;height:25px;line-height:25px;text-align:center;border:1px #b5b5b6 solid;font-size:16px;color:#727171;float:left;margin-right:10px;}
+.gg_page a:hover{text-decoration:none;border-color:#fdca00; background:#fdca00; color:#FFF;}
+.gg_page .gg_hover{text-decoration:none;border-color:#fdca00; background:#fdca00; color:#FFF;cursor:default;}
+.gg_page .gg_cursor{cursor:default;}
+.gg_page .gg_tw{width:42px;}
+.gg_page .gg_fy{font-family:"SimSun";}
+.gg_page #page{width:36px;height:21px;line-height:21px;padding:2px;text-align:center;border:1px #b5b5b6 solid;font-size:14px;color:#727171;float:left; border-right:none;}
+.gg_page .goBtn{width:27px;height:27px;border:1px #b5b5b6 solid;background:#b5b5b6;font-size:14px;color:#fff; float:left; cursor:pointer;float:left;}
+.gg_page .goBtn:hover{background:#fdca00;border-color:#fdca00;}
+/*分享*/
+.w1200 .bdsharebuttonbox a{margin:0;margin-right:6px;display:block;width:27px;height:28px;padding-left:0;background-image:url(../images/details/zshare.png);background-repeat:repeat;}
+.w1200 .bdsharebuttonbox .bds_weixin{background-position:101px 0px;}
+.w1200 .bdsharebuttonbox .bds_weixin:hover{background-position:101px 28px;}
+.w1200 .bdsharebuttonbox .bds_tsina{background-position:0 0;}
+.w1200 .bdsharebuttonbox .bds_tsina:hover{background-position:0 28px;}
+.w1200 .bdsharebuttonbox .bds_tqq{background-position:176px 0;}
+.w1200 .bdsharebuttonbox .bds_tqq:hover{background-position:176px 28px;}
+.w1200 .bdsharebuttonbox .bds_renren{background-position:138px 0;}
+.w1200 .bdsharebuttonbox .bds_renren:hover{background-position:138px 28px;}
+.w1200 .bdsharebuttonbox .bds_qzone{background-position:64px 0;}
+.w1200 .bdsharebuttonbox .bds_qzone:hover{background-position:64px 28px;}
+.w1200 .bdsharebuttonbox .bds_more{background-position:27px 0;}
+.w1200 .bdsharebuttonbox .bds_more:hover{background-position:27px 28px;}
+
+/*列表左侧*/
+.ds_left{width:836px;margin-right:64px;padding-bottom:30px;}
+/*内容标题*/
+.ds_title{width:836px;height:95px; border-bottom:1px #9fa0a0 solid;margin-bottom:40px;position:relative;}
+.ds_title h1{font-size:22px;line-height:58px;height:58px;clear:both;}
+.ds_title .ds_span{width:461px;height:28px;line-height:28px;float:left;}
+.ds_title .ds_span span{display:inline-block; float:left;font-size:14px; color:#727171; margin-right:15px;}
+.ds_title .ds_link{width:836px;height:24px;line-height:24px;bottom:-32px;left:0;text-align:right;color:#727171;}
+.ds_title .bdsharebuttonbox{position:absolute;bottom:10px;right:0;height:28px;line-height:28px;width:270px;overflow:hidden;}
+.ds_title .bdsharebuttonbox span{font-size:14px; color:#727171; margin-right:15px; float:left;}
+.ds_title .ds_link span{font-family:"SimSun"; padding:0 5px;}
+.ds_title .ds_link a{color:#727171}
+/*内容正文*/
+.ds_cr{width:100%;display:table;}
+.ds_cr p{font-size:14px;color:#3e3a39;line-height:28px;font-family:"Microsoft YaHei"; padding-bottom:12px;}
+.ds_cr .ds_Edit{width:100%;height:25px; clear:both;}
+.ds_cr .ds_Edit span{color:#727171;float:right; line-height:25px;}
+.ds_cr a{color:#000;}
+.ds_cr a:hover{color:#ff5400;}
+.ds_cr .ds_ico10{display:inline-block;width:28px;height:25px;line-height:25px; float:left; margin-right:5px;background-image:url(../images/details/ico10_21.png@__sprite);}
+/*分享微信*/
+.ds_buttom{width:836px;height:119px;padding-top:30px;border-bottom:1px #9fa0a0 solid;}
+.ds_buttom .bdsharebuttonbox{width:566px;height:105px;float:left;}
+.ds_buttom span{display:block; clear:both; color:#727171; line-height:34px;}
+.ds_buttom .ds_wei{width:232px;height:105px;float:left;}
+.ds_buttom .ds_wei dt{width:96px;height:96px;}
+.ds_buttom .ds_wei dd{width:136px;height:96px;}
+.ds_buttom .ds_wei dd p{line-height:28px; text-align:center; padding-top:18px;}
+.ds_xgxx{width:836px;height:273px; padding-top:40px;}
+.ds_xgxx .gg_title{width:100%;height:35px;font-size:16px;color:#221815;border-bottom:1px #fdca00 solid;line-height:35px;text-indent:10px;clear:both;}
+.ds_xgxx .gg_title h2{font-weight:normal;}
+.ds_xgxx .ds_xg{width:398px;float:left; display:table;}
+.ds_xgxx .ds_xgyd{margin-right:40px;}
+.ds_xgxx .ds_xg ul{display:table;width:398px; padding-top:15px;}
+.ds_xgxx .ds_xg ul li{line-height:22px;clear:both;font-family:"Microsoft YaHei"; margin-bottom:4px;}
+.ds_xgxx .ds_xg .gg_ico1{background-image:url(../images/details/dian_15.png@__sprite);display:inline-block;width:4px;height:4px;vertical-align:middle;overflow:hidden;margin-right:6px;}
+.ds_xgxx .ds_xg ul li span{float:right;font-size:14px;color:#898989; padding-right:10px;}
+.ds_xgxx .ds_xg ul li a{font-size:14px;color:#3e3a39;}
+
+/* 1280屏以1200显示 */
+@media all and (max-width: 1280px) { 
+	.ds_left,.ds_title{width:666px;margin-right:34px;}
+	.ds_title .ds_link,.ds_buttom,.ds_xgxx{width:666px;}
+	.ds_buttom .bdsharebuttonbox{width:366px;}
+	.ds_cr{overflow:hidden;width:666px;display:block;}
+	.ds_xgxx .ds_xg{width:310px;overflow:hidden;}
+	.ds_xgxx .ds_xg ul{width:100%;}
+	.ds_xgxx .ds_xg ul li span{display:none;}
+}

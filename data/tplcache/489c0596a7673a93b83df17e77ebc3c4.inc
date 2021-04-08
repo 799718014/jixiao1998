@@ -1,0 +1,1 @@
+<a class="top_news_tit tit_blue ofh" href="[field:arcurl/]" target="_blank" >[field:title/]</a>

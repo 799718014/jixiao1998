@@ -1,0 +1,1 @@
+File 'zmnedu2016/phome_enewsclass.MYD' not found (Errcode: 13)<br>select tbname,tid from ***_enewsclass where classid='114'

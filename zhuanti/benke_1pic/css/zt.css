@@ -1,0 +1,122 @@
+@charset "utf-8";
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,
+form,fieldset,input,textarea,p,blockquote,th,td {
+padding: 0;
+margin: 0;
+}
+body{background:#34465a;font-family:微软雅黑;}
+table {
+border-collapse: collapse;
+border-spacing: 0;
+}
+fieldset,img {
+border: 0;
+}
+address,caption,cite,code,dfn,em,strong,th,var {
+font-weight: normal;
+font-style: normal;
+}
+ol,ul {
+list-style: none;
+}
+caption,th {
+text-align: left;
+}
+h1,h2,h3,h4,h5,h6 {
+font-weight: normal;
+font-size: 100%;
+}
+q:before,q:after {
+content:'';
+}
+abbr,acronym { border: 0;
+}
+.clear{
+clear:both
+}
+a{text-decoration:none;display:block;position:relative;}
+.top-s{width:100%;height:7px;background:#5e01d2;}
+.header {width:100%;height:50px;background:#000;}
+.header .nav{margin:0 auto; width:1000px;height:50px;line-height:50px;background:#000000;}
+.nav ul{width:1000px;height:60px;}
+.nav ul li{display:block;font-size:14px;width:100px;height:50px;line-height:50px;float:left;margin-left:20px;text-align:center;}
+
+.nav ul li a{color:#FFFFFF;display:block;}
+.nav ul li a:hover{background:#5e01d2;}
+
+.w1200{
+width:1200px;margin:0 auto;
+}
+.mt{
+margin-top:10px;
+}
+.mt30{
+margin-top:30px;
+}
+.mb30{
+margin-bottom:30px;
+}
+.content{width:1006px;margin:0 auto;}
+.top_blue{
+background-color:#473890
+}
+/*公共部分*/
+.luqu{
+width:1170px;margin:0 auto;background:#eee;padding:15px 15px 0px 15px;margin-bottom:25px;
+}
+
+a.bl{
+display:block;
+}
+
+a.b04{
+float:left;margin-bottom:15px;
+}
+a.b05{
+float:left;padding:0px 15px;margin-bottom:15px;
+}
+a.b06{
+float:left;margin-bottom:15px;
+}
+a.b07{
+float:left;margin-bottom:15px;
+}
+a.b08{
+float:left;margin-left:10px;margin-bottom:15px;
+}
+a.b09{
+float:left;margin-left:10px;margin-bottom:15px;
+}
+a.b10{
+float:left;margin-left:10px;margin-bottom:15px;
+}
+a.b12{
+float:left;width:330px;height:121px;margin-top:5px;margin-bottom:5px;
+}
+a.b13{
+float:left;width:330px;height:121px;margin-top:5px;margin-bottom:5px;margin-left:4px;margin-right:4px;
+}
+a.b14{
+float:left;width:330px;height:121px;margin-top:5px;margin-bottom:5px;
+}
+a.b21{
+float:left
+}
+a.b22{
+float:right
+}
+
+#footer {
+clear:both;
+margin-top: 40px;
+text-align: left;
+color: #888;
+padding: 15px 0 20px 0;
+line-height: 20px;
+background: #292929;
+border-top: 1px solid #555454;
+font-size: 12px;
+}
+#footer p{margin-top:20px;}
+
+.clr{clear:both;}

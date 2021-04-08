@@ -1,0 +1,7 @@
+         <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" height="300" id="player" name="player" width="400">
+            <param name="movie" value="/media/flvplayer.swf?autostart=false">
+            <param name="allowscriptaccess" value="always">
+            <param name="wmode" value="transparent">
+            <param name="flashvars" value="file=/media/sp1.flv&image=/media/sptp.png">
+            <embed allowfullscreen="false" allowscriptaccess="always" flashvars="file=/media/sp1.flv&image=/media/sptp.png" height="260" id="player2" loop="true" name="player2" src="/media/flvplayer.swf" type="application/x-shockwave-flash" width="400" wmode="transparent">
+        </object>

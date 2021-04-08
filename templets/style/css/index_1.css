@@ -1,0 +1,12 @@
+@charset "utf-8";
+/* CSS Document */
+body{}
+#main{width:1000px; display:table;position:relative;left:50%;top:0; margin-bottom:30px; margin-left:-500px !important;margin-top:20px;background:url(../images/leftBj.jpg) repeat-y left;}
+#main .left{width:254px; display:table; float:left;margin-right:20px; padding:15px 13px;}
+#main .left h3{ height:66px; line-height:45px;font-size:18px; background:url(../images/xiao_bt.png) no-repeat center;color: #FFF;text-align: center; font-weight:500;}
+#main .left ul{ margin:0 auto; padding-bottom:15px;}
+#main .left h6{height:35PX; font-size:18px; color:#0b6fcd; text-align:left; padding-left:10px; background:url(../images/xian.png) no-repeat center 29px; font-weight:500;}
+#main .left li{text-align:left;font-size:12px;line-height:22px; color:#303030; background:url(../images/robot%20chollenge_02.jpg)  no-repeat 10px; center; padding-left:22px; }
+
+#main .right{width:700px; display:table; float:left;}
+#main .right p{padding-bottom:18px; font-size:14px; line-height:24px; color:#333;}

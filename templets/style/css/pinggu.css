@@ -1,0 +1,50 @@
+.mainContent{ width:732px; padding:25px 35px; background:#fff;font-size:14px; line-height:24px; }
+
+.main{ background:#fff; border-top: #ddd 0px solid; font-size:14px; color: #666666; margin:auto; padding:10px;}
+.main h1{ height:30px; line-height:30px;padding-bottom:20px; text-align:center; overflow:hidden; line-height:30px; font-size:20px; overflow:hidden; border-bottom:1px solid #ddd; font-family:\5FAE\8F6F\96C5\9ED1, "黑体"; font-weight:normal; color:#000;}
+
+.lv{ color:#333}
+
+/*2013-11-04*/
+.main input{ font-size:14px; color:#999; outline:none;}
+.main textarea{ font-size:12px; color:#999;outline:none;}
+.main select{ font-size:14px; color:#555;outline:none;}
+.textpg{ width:489px;height:40px;border-left:1px solid #666666;border-top:1px solid #666666;border-right:1px solid #cbcbcb;border-bottom:1px solid #cbcbcb; padding:8px; line-height:20px; overflow:auto; background:#fff;}
+.inp{ width:130px; height:20px;border-left:1px solid #666666;border-top:1px solid #666666;border-right:1px solid #cbcbcb;border-bottom:1px solid #cbcbcb; padding:2px 5px; line-height:20px; overflow:hidden; background:#fff}
+
+/*考试框*/
+.kaoshi{ width:50px; height:20px; line-height:20px; padding:0 5px; border:none;border-bottom:1px solid #ccc; text-align:center; overflow:hidden;}
+
+.main .texth{ border:1px solid #ffd200; background:#fff; color:#555;}
+.main .inph{ border:1px solid #ffd200; background:#fff; color:#555;}
+.main .kaoshih{border-bottom:1px solid #ffd200;color:#555}
+
+.tabtit{width:710px; margin:20px auto 10px;height:38px; line-height:38px; font-size:14px; font-family:\5FAE\8F6F\96C5\9ED1, "黑体"; text-align:left; text-indent:40px; color:#fff;background:#272727;}
+.tabtit h3{ width:100%; height:100%; font-weight:normal;}
+.tabtit span{ font-size:12px; padding-left:15px; font-family:Tahoma; color:#ccc; text-transform:uppercase;}
+
+.tit0 h3{background:url(../images/pgnew/pinggut0.png) no-repeat 14px center;}
+.tit1 h3{background:url(../images/pgnew/pinggut1.png) no-repeat 14px center;}
+.tit2 h3{background:url(../images/pgnew/pinggut2.png) no-repeat 14px center;}
+.tit3 h3{background:url(../images/pgnew/pinggut3.png) no-repeat 14px center;}
+.tit4 h3{background:url(../images/pgnew/pinggut4.png) no-repeat 14px center;}
+
+.tab { width:710px; margin:0 auto;}
+.tab td{ border-top:1px solid #f1f1f1; padding:8px 0;}
+.tab .tdl{ width:130px; text-align:right; padding-right:10px;}
+.tab label{ cursor:pointer}
+.tab .odd td{ background:#fff9cf}
+.tab2 td{ border:none}
+.tab .xing{ color:#FF6600; padding-right:10px; font-family:\5b8b\4f53}
+.tishi .xing{ padding:0 3px;}
+
+.tabsub{ width:710px; margin-top:20px;}
+.tabsub .subtd{ width:172px;}
+.tabsub .sub{ width:110px; height:40px; background:#333; color:#fff; border:1px solid #111; cursor:pointer;}
+.tabsub .tips{line-height:20px; font-size:12px; padding:10px 20px 10px 5px; color:#999; text-align:right;}
+
+
+
+
+
+

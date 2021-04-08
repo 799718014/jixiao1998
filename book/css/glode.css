@@ -1,0 +1,60 @@
+@charset "gb2312";
+/* CSS Document */
+html {
+	overflow-x:hidden;
+}
+body {
+	_overflow:hidden;
+	overflow-x:hidden;
+	overflow:visible;
+	width:100%;
+}
+@media screen and (max-width:1000px) {
+body {
+ width:1000px !important;
+margin:0 auto !important;
+overflow-x:hidden;
+}
+}
+.top_nav .top_nav_list {
+	width:350px !important;
+}
+.top_nav {
+	overflow:inherit !important;
+}
+.top_nav .top_nav_list li {
+	position:relative;
+	z-index:999;
+}
+.top_nav .top_nav_list li .erji {
+	width:69px;
+	position:absolute;
+	top:40px;
+	left:-1px;
+	background:#272727;
+	display:none;
+	border: 1px solid #515151;
+	border-top:none;
+}
+.top_nav .top_nav_list li .erji a {
+	border-right:none;
+}
+#footer {
+	width:100%;
+	background:#272727;
+}
+#footer .w1000 {
+	color:#888;
+	text-align:center;
+	line-height:20px;
+	background:#272727;
+	font-size:12px;
+	padding:40px 0px;
+}
+#footer a {
+	color:#888;
+	margin:0 5px;
+}
+#footer .jmxkz {
+	color:#f60;
+}
